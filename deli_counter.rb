@@ -12,3 +12,4 @@ def line(line_array)
   end
 end
 
+def take
