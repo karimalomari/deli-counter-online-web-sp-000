@@ -26,4 +26,5 @@ def now_serving(line_array)
   else
     current_customer = line_array.shift
     puts "Currently serving #{current_customer}."
+  end
 end
