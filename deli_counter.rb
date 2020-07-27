@@ -11,3 +11,4 @@ def line(line_array)
   puts line_message.rstrip
   end
 end
+
