@@ -12,5 +12,7 @@ def line(line_array)
   end
 end
 
-def take_a_number(line_array)
+def take_a_number(line_array, name)
+  
+end
   
