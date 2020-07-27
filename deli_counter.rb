@@ -4,6 +4,6 @@ def line(line_array)
   if line_array.size == 0 
     puts "The line is currently empty."
   else
-    line
+    line_message = 
   end
 end
